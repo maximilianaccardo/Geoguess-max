@@ -1,4 +1,4 @@
-![logo](../master/public/img/icons/android-icon-36x36.png) Geoguess
+![logo](../master/public/img/icons/android-icon-36x36.png) Geoguess Max
 ===
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/GeoGuess/GeoGuess)](https://github.com/GeoGuess/Geoguess/releases) 
